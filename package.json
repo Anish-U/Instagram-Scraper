@@ -1,0 +1,20 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "nodejs",
+    "web-scraping"
+  ],
+  "author": "Ummenthala Anish <ummenthala.anish@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.0.0"
+  }
+}
