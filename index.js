@@ -136,7 +136,7 @@ scrapeData = async () => {
       imagePage.close();
     }
   } else {
-    console.log("NO POSTS AVAILABLE");
+    console.log("NO POSTS AVAILABLE or ACCOUNT IS PRIVATE");
   }
   browser.close();
 };
